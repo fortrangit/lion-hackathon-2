@@ -54,7 +54,6 @@ header::after {
 
 .navbar-left a.active {
     color: #ef864e;
-    border-bottom: 2px solid #ef864e;
 }
 
 main {
